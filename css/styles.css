@@ -46,7 +46,7 @@ h1 {
 	text-align: center;
 }
 iframe {
-	align-content: center;
+	
 }
 @media screen and (max-width: 480px) {
   body {
@@ -64,8 +64,7 @@ img {
 }
 iframe {
 	display: block;
-	margin-left: auto;
-	margin-right: auto;
+align-content: center;
 	width: 50%;
 }
 /* The navbar container */
@@ -144,6 +143,4 @@ h1 {
   max-width: 100%;
   height: auto;
 }
-section.ex1 {
-  padding-left: 70px;
-}
+
