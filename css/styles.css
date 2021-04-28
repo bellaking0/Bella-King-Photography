@@ -129,7 +129,7 @@ h1 {
 .footer {
   background-color: #fff;
   text-align: center;
-  padding: 10px;
+  padding: 50px;
 }
 /* On screens that are 480px wide or less, make the footer stack on the bottom of the body */
 @media screen and (max-width: 480px) {
@@ -144,6 +144,6 @@ h1 {
   max-width: 100%;
   height: auto;
 }
-div {
+section {
   padding-left: 50px;
 }
