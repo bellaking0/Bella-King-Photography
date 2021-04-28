@@ -43,8 +43,7 @@ input[type=button], input[type=submit], input[type=reset] {
   cursor: pointer;
 }
 img {
-  padding-right: 250px;
-  padding-left: 250px;
+  padding: 250px;
 }
 h1 {
 	text-align: center;
