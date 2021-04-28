@@ -144,6 +144,6 @@ h1 {
   max-width: 100%;
   height: auto;
 }
-.section {
+section.ex1 {
   padding-left: 70px;
 }
