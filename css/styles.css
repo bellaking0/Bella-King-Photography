@@ -45,9 +45,6 @@ input[type=button], input[type=submit], input[type=reset] {
 h1 {
 	text-align: center;
 }
-iframe {
-	
-}
 @media screen and (max-width: 480px) {
   body {
     background-color: white;
@@ -149,6 +146,6 @@ h1 {
   margin-right: auto;
   width: 50%;
 }
-img {
+.section {
   padding-left: 250px;
 }
