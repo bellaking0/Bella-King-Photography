@@ -19,7 +19,7 @@ section {
   padding-left: 250px;
   padding-right: 250px;
 }
-/* On screens that are 480px wide or less, make the padding 150px */
+/* On screens that are 480px wide or less, make the padding center the page */
 @media only screen and (max-width: 480px) {
   section {
     padding-left: 150px
