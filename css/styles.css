@@ -19,11 +19,11 @@ section {
   padding-left: 250px;
   padding-right: 250px;
 }
-/* On screens that are 480px wide or less, make the padding center the page */
+/* On screens that are 480px wide or less, make the padding 50px */
 @media only screen and (max-width: 480px) {
   section {
-    padding-left: 150px
-    padding-right:150px;
+    padding-left: 50px
+    padding-right: 50px;
   }
 }
 /*change the link color to #111 (black) on hover */
