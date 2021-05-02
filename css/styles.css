@@ -19,10 +19,9 @@ section {
   padding-left: 250px;
   padding-right: 250px;
 }
-/*On screens that are 480px wide or less, make the section padding 50px */
 @media only screen and (max-width: 480px) {
-  .section {
-    padding-left: 50px
+  section {
+    padding-left: 50px;
     padding-right: 50px;
   }
 }
@@ -90,10 +89,6 @@ align-content: center;
   padding: 14px 16px;
   text-decoration: none;
 }
-  .section {
-    padding-left: 50px;
-    padding-right: 50px;
-  }
   .topnav a {
     float: none;
     width: 100%;
