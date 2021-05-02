@@ -19,12 +19,6 @@ section {
   padding-left: 250px;
   padding-right: 250px;
 }
-@media only screen and (max-width: 480px) {
-  section {
-    padding-left: 50px;
-    padding-right: 50px;
-  }
-}
 /*change the link color to #111 (black) on hover */
 li a:hover {
 	background-color: #111
